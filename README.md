@@ -1,56 +1,18 @@
 # Crystal-Tourism-Company-
-فكرة المشروع: شركة رائدة في مجال السياحة والسفر، نسعى لتقديم تجارب سفر مميزة تجمع بين الراحة، الأمان، والمتعة. نقدم لعملائنا مجموعة واسعة من الخدمات تشمل:  تنظيم الرحلات الداخلية والخارجية.  حجز تذاكر الطيران والفنادق بأفضل الأسعار.  برامج سياحية مخصصة تناسب الأفراد، العائلات، والشركات
-الاسماء : هاجر تامر(ليدر المجموعه)- ميار اشوف - نور أشرف - روحية - سندس خالد - فيروز فوزي - زينب علاء الدين
-اسم المشروع : شركة كريستال للسياحه
-خطة المشروع: 1. الهدف (Objectives):
-
-زيادة الوعي بالعلامة التجارية.
-
-جذب عملاء جدد من مصر والدول العربية.
-
-رفع معدل الحجز أونلاين بنسبة محددة (مثلاً 20%).
-
-2. الجمهور المستهدف (Target Market):
-
-أفراد وعائلات من الطبقة المتوسطة والعليا.
-
-الفئة العمرية 35+ الباحثة عن رحلات منظمة ومضمونة.
-
-3. الاستراتيجية (Strategy):
-
-التركيز على التميز: فنادق قريبة من الحرم + إشراف كامل.
-
-إبراز الباقات الاقتصادية والفاخرة لتناسب مختلف العملاء.
-
-استخدام التسويق الرقمي كأداة أساسية.
-
-4. القنوات (Channels):
-
-وسائل التواصل الاجتماعي (فيسبوك، إنستجرام، تيك توك)
-مكتوب في البرزنتيشن كل واحد عمل ايه 
-ديزاين البرزنتيشن : هاجر تامر.
-
-الإعلانات الممولة لاستهداف فئات عمرية وجغرافية محددة.
-
-تحسين موقع الشركة ليكون سهل الحجز أونلاين.
-
-5. التنفيذ (Actions):
-
-إنشاء محتوى تسويقي جذاب (فيديوهات، صور، قصص العملاء).
-
-حملات موسمية للحج والعمرة.
-
-التعاون مع مؤثرين ودعاة لإضافة مصداقية.
-
-6. التقييم (KPIs):
-
-عدد الحجوزات عبر الإنترنت.
-
-معدل التفاعل على السوشيال ميديا.
-
-نسبة العملاء الجدد مقابل العملاء المتكررين
-
-مهام طاقم العمل : 
-ديزاين : هاجر تامر - سندس خالد - ميار اشرف - وفيروز
-عمل الريلز : نور و زينب
-كتابة كابشن : روحيه - هاجر تامر - ميار اشرف
+> 👥 Team Members: Hager Tamer (team leader) - Mayar Ashraf - Sondos Khaled - Fayroz Fawzy - Nour Ashraf - Rawhya - 
+> 📍Instractor Name :  Dr. Ashraf Rouby 
+> 📌 Project Overview: A leading travel and tourism company, we strive to provide unique travel experiences that combine comfort, safety, and enjoyment. We offer our clients a wide range of services, including: organizing domestic and international trips; booking airline tickets and hotels at the best prices; and customized tour packages for individuals, families, and companies.
+> 🎯 Project Objectives: The main objective of this project is to develop a comprehensive marketing strategy for Crystal Tours that increases brand awareness, boosts customer engagement, and drives more bookings through digital platforms, especially social media.
+> 📂 Project Scope: This project covers the development of a digital marketing plan for Crystal Tours, focusing on:
+Conducting a SOSTAC analysis (Situation, Objectives, Strategy, Tactics, Actions, Control).
+Creating a content calendar tailored for social media.
+Setting clear KPIs to measure performance (followers, engagement, inquiries, bookings).
+Suggesting strategies and tactics to increase brand awareness and customer acquisition.
+The scope is limited to online marketing activities, mainly through Facebook and Instagram, without covering offline promotional campaigns.
+> 📊Work Plan: Research & Analysis – Study current situation & competitors.
+Set Objectives – Define measurable marketing goals.
+Strategy & Tactics – Plan targeting, positioning & tools.
+Content Creation – Design posts, reels, and offers.
+Execution – Publish content & run paid campaigns.
+Monitoring – Track KPIs & optimize monthly.
+> 🗓 Project Timeline (5 Weeks)
