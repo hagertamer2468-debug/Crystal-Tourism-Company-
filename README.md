@@ -54,7 +54,6 @@ This project covers the development of a digital marketing plan for Crystal Tour
 |----------------------|----------------------------------------------------------------------|
 | **Research & Analysis** | - Identify audience personas (youth, families, religious travelers). <br> - Study competitors’ marketing activities. |
 | **Visual Identity**     | - https://www.canva.com/design/DAGzo9hreA0/uKCbv43kiBX8rLx8dIoSgw/edit
-
 | **Main Designs**        | - https://drive.google.com/drive/folders/1iKwQ5k4o15KSEN7Dhckq75VL4WGgoz6q
 | **Complementary Products** | - Flyers & brochures for offline marketing. <br> - Branded merchandise (travel tags, notebooks). |
 | **Review & Finalization** | - Collect feedback from management. <br> - Adjust visuals & content for alignment with company goals. |
