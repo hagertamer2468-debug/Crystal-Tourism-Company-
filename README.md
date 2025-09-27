@@ -2,6 +2,14 @@
 # Crystal Tourism Company  
 
 ---
+## Project Idea
+A leading travel and tourism company, we strive to provide unique travel experiences that combine comfort, safety, and enjoyment.  
+We offer our clients a wide range of services, including:  
+- Organizing domestic and international trips.  
+- Booking airline tickets and hotels at the best prices.  
+- Customized tour packages for individuals, families, and companies.
+
+  ---
 
 ## 👥 Team Members  
 - Hager Tamer (Team Leader)  
@@ -16,15 +24,6 @@
 
 ## 📍 Instructor Name  
 Dr. Ashraf Rouby  
-
----
-
-## 📌 Project Overview  
-A leading travel and tourism company, we strive to provide unique travel experiences that combine comfort, safety, and enjoyment.  
-We offer our clients a wide range of services, including:  
-- Organizing domestic and international trips.  
-- Booking airline tickets and hotels at the best prices.  
-- Customized tour packages for individuals, families, and companies.  
 
 ---
 
@@ -49,14 +48,18 @@ This project covers the development of a digital marketing plan for Crystal Tour
 
 ## 📊 Work Plan  
 
-| Step | Task               | Description                                |
-|------|--------------------|--------------------------------------------|
-| 1    | Research & Analysis | Study current situation & competitors.     |
-| 2    | Set Objectives      | Define measurable marketing goals.         |
-| 3    | Strategy & Tactics  | Plan targeting, positioning & tools.       |
-| 4    | Content Creation    | Design posts, reels, and offers.           |
-| 5    | Execution           | Publish content & run paid campaigns.      |
-| 6    | Monitoring          | Track KPIs & optimize monthly.             |
+## 📊 Work Plan – Crystal Tours  
+
+| Step                | Tasks                                                                 |
+|----------------------|----------------------------------------------------------------------|
+| **Research & Analysis** | - Identify audience personas (youth, families, religious travelers). <br> - Study competitors’ marketing activities. |
+| **Visual Identity**     | - https://www.canva.com/design/DAGzo9hreA0/uKCbv43kiBX8rLx8dIoSgw/edit
+
+| **Main Designs**        | - https://drive.google.com/drive/folders/1iKwQ5k4o15KSEN7Dhckq75VL4WGgoz6q
+| **Complementary Products** | - Flyers & brochures for offline marketing. <br> - Branded merchandise (travel tags, notebooks). |
+| **Review & Finalization** | - Collect feedback from management. <br> - Adjust visuals & content for alignment with company goals. |
+| **Final Presentation**   | - Deliver complete marketing package (logo, posters, content calendar, strategy). <br> - Showcase SOSTAC analysis & KPIs. |
+
 
 ---
 
@@ -66,3 +69,51 @@ This project covers the development of a digital marketing plan for Crystal Tour
 - Week 3: Content Creation  
 - Week 4: Execution  
 - Week 5: Monitoring & Optimization  
+
+
+---
+## 📊 KPIs – Crystal Tours
+
+| KPI | Target |
+|-----|---------|
+| **Followers Growth** 📈 | +30% followers in 6 months |
+| **Engagement Rate** ❤️ | +25% engagement per post |
+| **Reach & Impressions** 👀 | 50K+ monthly reach |
+| **Inquiries Generated** 💬 | +20% inquiries via social media |
+| **Conversion Rate (Bookings)** 🛫 | 10% of inquiries converted into bookings |
+| **Website / Landing Page Traffic** 🌐 | +15% monthly visitors |
+| **Customer Retention** 🔄 | 20% repeat customers within a year |
+
+---
+
+## Project Files
+
+You can find the full project files here
+https://drive.google.com/drive/folders/1iKwQ5k4o15KSEN7Dhckq75VL4WGgoz6q
+
+---
+
+## License
+This project is licensed under the :
+Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+
+Copyright (c) 2025 Crystal Tours Marketing Project
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Use the project for educational and reference purposes
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, 
+  and indicate if changes were made. 
+- NoDerivatives — If you remix, transform, or build upon the material, 
+  you may not distribute the modified material.
+
+No additional restrictions — You may not apply legal terms or technological 
+measures that legally restrict others from doing anything the license permits.
+
+This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 
+International License. To view a copy of this license, visit 
+https://creativecommons.org/licenses/by-nd/4.0/
+
+
