@@ -48,12 +48,15 @@ This project covers the development of a digital marketing plan for Crystal Tour
 ---
 
 ## 📊 Work Plan  
-1. **Research & Analysis** – Study current situation & competitors.  
-2. **Set Objectives** – Define measurable marketing goals.  
-3. **Strategy & Tactics** – Plan targeting, positioning & tools.  
-4. **Content Creation** – Design posts, reels, and offers.  
-5. **Execution** – Publish content & run paid campaigns.  
-6. **Monitoring** – Track KPIs & optimize monthly.  
+
+| Step | Task               | Description                                |
+|------|--------------------|--------------------------------------------|
+| 1    | Research & Analysis | Study current situation & competitors.     |
+| 2    | Set Objectives      | Define measurable marketing goals.         |
+| 3    | Strategy & Tactics  | Plan targeting, positioning & tools.       |
+| 4    | Content Creation    | Design posts, reels, and offers.           |
+| 5    | Execution           | Publish content & run paid campaigns.      |
+| 6    | Monitoring          | Track KPIs & optimize monthly.             |
 
 ---
 
